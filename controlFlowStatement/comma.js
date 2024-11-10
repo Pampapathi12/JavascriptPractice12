@@ -4,6 +4,7 @@
 
 let pampa = (10, 10+20)
 console.log(pampa)
+// node .\test23.js   -> command
 
 let x = 10;
 let y = (x++, x+1)
